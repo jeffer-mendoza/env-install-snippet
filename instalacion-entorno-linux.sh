@@ -12,7 +12,7 @@
 # 4. Mysql Workbench v6.3
 # 5. Apache Tomcat v.8.5.30
 
-# @Author Innova4j
+# @Author Jefferson Mendoza <mendosajefferson@gmail.com>
 
 # Install Directory
 INSTALL_FOLDER="$HOME/auditoria-proyectos-gore-tools/"
